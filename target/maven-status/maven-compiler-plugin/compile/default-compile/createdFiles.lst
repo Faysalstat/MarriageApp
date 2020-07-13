@@ -1,0 +1,15 @@
+com\marriage\ApplicationMain.class
+com\marriage\service\FriendService.class
+com\marriage\repository\PersonRepository.class
+com\marriage\controller\PageController.class
+model\Person.class
+com\marriage\service\PersonService.class
+com\marriage\service\UserService.class
+com\marriage\securityconfig\SecurityConfig.class
+com\marriage\HibernateConfiguration.class
+com\marriage\repository\FriendRepository.class
+com\marriage\SpringConfig.class
+model\Friendlist.class
+com\marriage\repository\UserRepository.class
+model\User.class
+com\marriage\controller\RestApiController.class
